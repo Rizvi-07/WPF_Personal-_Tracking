@@ -107,7 +107,7 @@ The connection string is currently inside:
 
 ```csharp
 optionsBuilder.UseSqlServer("Server=.; Database=PersonalTracking; Trusted_Connection=True;");
-
+```
 ## 📸 Screenshots / UI Icons
 
 ![Employee](Employee.jpg)
