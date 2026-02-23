@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = WPFPersonalTracking
+build_property.ProjectDir = D:\1 - Job cv\Siemens_Software_Engineering\WPFPersonalTracking-main\WPFPersonalTracking\WPFPersonalTracking\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
